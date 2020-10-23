@@ -1,0 +1,155 @@
+/*The break fast Club*/
+#theBreakFastClub {
+    display: none;
+    position: fixed;
+    left: 600px;
+    top: 50px;
+}
+
+.theBreakFastClub {
+    border: 2px solid black;
+    padding: 20px;
+}
+
+/*Raiders of the Lost Ark*/
+#raidersOfTheLostArk {
+    display: none;
+    position: fixed;
+    left: 600px;
+    top: 50px;
+}
+
+.raidersOfTheLostArk {
+    border: 2px solid black;
+    padding: 20px;
+}
+
+/*Star Trek */
+
+#starTrek {
+    display: none;
+    position: fixed;
+    left: 600px;
+    top: 50px;
+}
+
+.starTrek {
+    border: 2px solid black;
+    padding: 20px; 
+}
+
+/*Star Wars */
+
+#starWars {
+    display: none;
+    position: fixed;
+    left: 600px;
+    top: 50px;
+}
+
+.starWars {
+    border: 2px solid black;
+    padding: 20px;  
+}
+
+/*Titanic */
+
+#titanic {
+    display: none;
+    position: fixed;
+    left: 600px;
+    top: 50px;
+}
+
+.titanic {
+    border: 2px solid black;
+    padding: 20px;  
+}
+
+/*Forest Gump */
+
+#forestGump {
+    display: none;
+    position: fixed;
+    left: 600px;
+    top: 50px;
+}
+
+.forestGump {
+    border: 2px solid black;
+    padding: 20px;  
+}
+
+/* Pupl Fiction */
+
+#pulpFiction {
+    display: none;
+    position: fixed;
+    left: 600px;
+    top: 50px;
+}
+
+.pulpFiction {
+    border: 2px solid black;
+    padding: 20px;  
+}
+
+/* Home Alone */
+
+#homeAlone {
+    display: none;
+    position: fixed;
+    left: 600px;
+    top: 50px;
+}
+
+.homeAlone {
+    border: 2px solid black;
+    padding: 20px;  
+}
+
+/* Fight Club */
+
+#fightClub {
+    display: none;
+    position: fixed;
+    left: 600px;
+    top: 50px;
+}
+
+.fightClub {
+    border: 2px solid black;
+    padding: 20px;  
+}
+
+/* Toy Story  */
+
+#toyStory {
+    display: none;
+    position: fixed;
+    left: 600px;
+    top: 50px;
+}
+
+.toyStory {
+    border: 2px solid black;
+    padding: 20px;  
+}
+
+/* The Truman Show */
+
+#theTrumanShows {
+    display: none;
+    position: fixed;
+    left: 600px;
+    top: 50px;
+}
+
+.theTrumanShow {
+    border: 2px solid black;
+    padding: 20px;  
+}
+
+
+
+
